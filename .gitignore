@@ -3,3 +3,5 @@ node_modules
 dist
 *.log
 yarn.lock
+.firebase
+__snapshots__/
